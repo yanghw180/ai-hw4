@@ -1,7 +1,9 @@
 # AI & Cloud Assignment 4
 
 <ul>
+  <li> Group 1 </li>
   <li> Contributors: Yongyi(Nikki)Zhao, Hewei Yang, Zhigeng Liu</li>
+  
 </ul>
 
 ## Overview
