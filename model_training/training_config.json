@@ -1,0 +1,9 @@
+{
+    "embeddings_dictionary_size": 500000,
+    "embeddings_vector_size": 25,
+    "padding_size": 20,
+    "batch_size": 100,
+    "num_epoch": 50,
+    "embeddings_path": "..\\resources\\glove.twitter.27B.25d.txt",
+    "input_tensor_name": "embedding_input"
+}
