@@ -6,7 +6,7 @@
 
 ## Overview
 <p> 
-  CNN tweets sentiment training model 
+  CNN Tweets sentiment model training
 </p >
 
 
