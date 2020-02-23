@@ -5,5 +5,5 @@ our enviroenment is as following
 <li> os.environ["SM_CHANNEL_VALIDATION"] = r"C:\Users\hewei\Desktop\ai_hw4\noon_0222\Archive\SM_CHANNEL_VALIDATION"</li>
 <li> os.environ["SM_CHANNEL_EVAL"] = r"C:\Users\hewei\Desktop\ai_hw4\noon_0222\Archive\SM_CHANNEL_EVAL"</li>
 <li> os.environ["SM_MODEL_DIR"] = r"C:\Users\hewei\Desktop\ai_hw4\noon_0222\Archive\SM_MODEL_DIR"</li>
-<span style="color:pink"> we do not upload dictionary, hence you need to change your own local directory </span> 
+<span style="color:pink"> we </span>  do not upload dictionary, hence you need to change your own local directory 
 
